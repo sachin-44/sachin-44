@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/sachin-r-nair](https://www.linkedin.com/in/sachin-r-nair-8422b2369/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sachin-r-nair-8422b2369/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sachinr4510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/sachin-44?tab=followers"><img src="https://img.shields.io/github/followers/sachin-44?style=for-the-badge&color=2563EB&label=Followers" alt="Followers" /></a>
 </p>
